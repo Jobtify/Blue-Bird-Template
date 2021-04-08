@@ -34,3 +34,7 @@ La versión 1.0, cuenta con diversas páginas, algunas de ellas son las siguient
 - En el panel del candidato el diseño se adapte al diseño general de la empresa.
 
 - Añadir algunos Widget para que la página sea más dinámica.
+
+
+Autor:[ Jazmín Moron](https://www.linkedin.com/in/jazmin-m-3aa73a205/ " Jazmín Moron")
+¿Ayuda? Crea un nuevo caso aquí: https://github.com/Jobtify/Jobtify-Custom-Package/issues
