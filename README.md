@@ -1,23 +1,30 @@
 # Blue-Bird-Template
-Blue Bird es un tema simple y elegante con un estilo profesional ideal para aquellos que buscan un sitio web especial para una empresa o  institución, tiene el objetivo de trasmitirle comodidad al usuario. Además, es totalmente adaptable a diferentes dispositivos.
+**Blue Bird** es un tema simple y elegante con un estilo profesional ideal para aquellos que buscan un sitio web especial para una empresa o  institución, tiene el objetivo de trasmitirle comodidad al usuario. Además, es totalmente adaptable a diferentes dispositivos.
 
-Es una plantilla adaptada para trabajar de manera automática con nuestro sistema Jobtify Custom Package, el CAREER SERVICES MANAGER GRATUITO de Jobtify.
+Es una plantilla adaptada para trabajar de manera automática con nuestro sistema Jobtify Custom Package, el **CAREER SERVICES MANAGER GRATUITO de Jobtify.**
 
-No se necesitan grandes habilidades de programación, basta con contar con conocimiento básico en HTML 
-para adaptar la información de la empresa o institución en la plantilla. Además, puedes modificar el CSS para adaptarla 
-a la paleta de color de la organización.
+No se necesitan grandes habilidades de programación, basta con contar con conocimiento básico en HTML para adaptar la información de la empresa o institución en la plantilla. Además, puedes modificar el CSS para adaptarla a la paleta de color de la organización.
+
 
 ### Preview:
+![Blue-Bird1](https://cdn.jobtify.com.mx/jcp/bliebird1.JPG "Blue-Bird1")
 
-Versión 1.0 La versión 1.0, cuenta con diversas páginas, algunas de ellas son las siguientes:
+ ![Blue-Bird1](https://cdn.jobtify.com.mx/jcp/bliebird2.JPG "Blue-Bird2")
 
-- Inicio: En la página de inicio cuenta con diversas secciones para que los candidatos conozcan la organización. En el caso de las empresas, se encuentra una sección donde pueden conocer un poco a los reclutadores.
+  ![Blue-Bird1](https://cdn.jobtify.com.mx/jcp/bliebird3.JPG "Blue-Bird3")
 
-- Ofertas: En la página de ofertas se encontrarán los puestos disponibles. Además los postulantes podrán ver la descripción detallada de puesto y al mismo tiempo aplicar al mismo.
 
-- Crear Cuenta: En la página de Crear Cuenta, aquellos candidatos que no estén registrados en la bolsa de empleo podrán crearse una cuenta.
+**Versión 1.0:** 
 
-- Entrar: En la página de Entrar los candidatos que ya hayan creado una cuenta podrán acceder a su perfil y ver los puestos que ha aplicado previamente y el estado de su aplicación.
+La versión 1.0, cuenta con diversas páginas, algunas de ellas son las siguientes:
+
+- **Inicio:** En la página de inicio cuenta con diversas secciones para que los candidatos conozcan la organización. En el caso de las empresas, se encuentra una sección donde pueden conocer un poco a los reclutadores.
+
+- **Ofertas:** En la página de ofertas se encontrarán los puestos disponibles. Además los postulantes podrán ver la descripción detallada de puesto y al mismo tiempo aplicar al mismo.
+
+- **Crear Cuenta:** En la página de Crear Cuenta, aquellos candidatos que no estén registrados en la bolsa de empleo podrán crearse una cuenta.
+
+- **Entrar:** En la página de Entrar los candidatos que ya hayan creado una cuenta podrán acceder a su perfil y ver los puestos que ha aplicado previamente y el estado de su aplicación.
 
 
 ### Próximas mejoras:
