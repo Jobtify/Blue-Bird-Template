@@ -7,11 +7,11 @@ No se necesitan grandes habilidades de programación, basta con contar con conoc
 
 
 ### Preview:
-![Blue-Bird1](https://cdn.jobtify.com.mx/jcp/bliebird1.JPG "Blue-Bird1")
+![Blue-Bird1](https://cdn.jobtify.com.mx/jcp/bluebird1.JPG "Blue-Bird1")
 
- ![Blue-Bird1](https://cdn.jobtify.com.mx/jcp/bliebird2.JPG "Blue-Bird2")
+ ![Blue-Bird1](https://cdn.jobtify.com.mx/jcp/bluebird2.JPG "Blue-Bird2")
 
-  ![Blue-Bird1](https://cdn.jobtify.com.mx/jcp/bliebird3.JPG "Blue-Bird3")
+  ![Blue-Bird1](https://cdn.jobtify.com.mx/jcp/bluebird3.JPG "Blue-Bird3")
 
 
 **Versión 1.0:** 
